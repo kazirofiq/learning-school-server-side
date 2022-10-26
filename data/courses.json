@@ -1,0 +1,110 @@
+[
+    {
+    "id": 1,
+    "title": "Create an LMS Website with LearnPress",
+    "price": 22.3,
+    "description": "Build your Brand online with your Own LMS Platform. Ready to use in less than 48 hours. Best SaaS LMS Platform with Own Domain Name and Cloud Hosting or Self Hosting. Start Today. Highly Affordable Pricing. Unlimited Courses. Unlimited Students.",
+    "category": "LMS Website",
+    "image": "https://eduma.thimpress.com/wp-content/uploads/2022/09/LMS_course_LP_Eduma_970x560-400x300.png",
+    "rating": {
+    "rate": 4.1,
+    "count": 259
+    }
+    },
+    {
+    "id": 2,
+    "title": "Introduction LearnPress – LMS plugin ",
+    "price": 22.3,
+    "description": "AI-Powered Personalization To Meet Learning Requirements Of All Customers & Employees. Deliver Personalized Learning Experience. Use Rich Analytics For Effective Decision Making. Best of eLearning Award. Ranked Leader in G2 Crowd. Ranked #1 Cloud-based LMS.",
+    "category": "LMS plugin",
+    "image": "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-1-400x300.jpg",
+    "rating": {
+    "rate": 4.1,
+    "count": 259
+    }
+    },
+    {
+    "id": 3,
+    "title": "Become a PHP Master and Make Money",
+    "price": 55.99,
+    "description": "AI-Powered Personalization To Meet Learning Requirements Of All Customers & Employees. Deliver Personalized Learning Experience. Use Rich Analytics For Effective Decision Making. Best Advance in LMT. Ranked #1 Cloud-based LMS. Ranked Leader in Capterra.",
+    "category": "PHP Master",
+    "image": "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-2-400x300.jpg",
+    "rating": {
+    "rate": 4.7,
+    "count": 500
+    }
+    },
+    {
+    "id": 4,
+    "title": "Learning jQuery Mobile for Beginners",
+    "price": 15.99,
+    "description": "jQuery Mobile provides a set of touch-friendly UI widgets and an Ajax-powered navigation system to support animated page transitions.",
+    "category": "jQuery Mobile",
+    "image": "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-3-400x300.jpg",
+    "rating": {
+    "rate": 2.1,
+    "count": 430
+    }
+    },
+    {
+    "id": 5,
+    "title": "HTML5/CSS3 Essentials in 4-Hours",
+    "price": 695,
+    "description": "Level up your web styling expertise with our easy to understand CSS fundamentals course. Each module is full of interactive demos & self-assessments to test your knowledge.",
+    "category": "HTML5/CSS3",
+    "image": "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-4-400x300.jpg",
+    "rating": {
+    "rate": 4.6,
+    "count": 400
+    }
+    },
+    {
+    "id": 6,
+    "title": "The Art of Black and White Photography",
+    "price": 168,
+    "description": "Black and white photography offers an alternative way of seeing reality, a different mirror on the world, a powerful means of artistic expression.",
+    "category": "Photography",
+    "image": "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-5-400x300.jpg",
+    "rating": {
+    "rate": 3.9,
+    "count": 70
+    }
+    },
+    {
+    "id": 7,
+    "title": "Introduction to networking for beginners",
+    "price": 9.99,
+    "description": "Cisco training is an essential tool for developing employees & optimizing your IT teams. Access latest Cisco certifications & technology trainings - all in one place! See Resources. Listen Podcast. View Webinars.",
+    "category": "networking",
+    "image": "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-6-400x300.jpg",
+    "rating": {
+    "rate": 3,
+    "count": 400
+    }
+    },
+    {
+    "id": 8,
+    "title": "Your Complete Guide to Photography",
+    "price": 10.99,
+    "description": "This course shows you how. Unlike other photography classes that are more limited in scope, this complete course teaches you how to take amazing photos and how .",
+    "category": "Photography",
+    "image": "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-7-400x300.jpg",
+    "rating": {
+    "rate": 1.9,
+    "count": 100
+    }
+    },
+    {
+    "id": 9,
+    "title": "From Zero to Hero with Nodejs",
+    "price": 64,
+    "description": "Node.js — free and open source cross-platform JavaScript framework for server side. Today, thousands of developers use it to develop various applications.",
+    "category": "Nodejs",
+    "image": "https://eduma.thimpress.com/wp-content/uploads/2022/06/courses-8-400x300.jpg",
+    "rating": {
+    "rate": 3.3,
+    "count": 203
+    }
+    }
+    ]
