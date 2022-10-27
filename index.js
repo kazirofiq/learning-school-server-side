@@ -42,13 +42,13 @@ app.get('/checkout', (req, res) => {
     const id = req.params.id;
     const selectedEducate = courses.find(e => e.id === id);
     res.send(selectedEducate);
-    // res.send(categories);
+    
   });
   app.get('/checkout/:id', (req, res) => {
     const id = req.params.id;
     const selectedCheckout = courses.find(e => e.id === id);
     res.send(selectedCheckout);
-    // res.send(categories);
+    
   });
 
 app.listen(Port, () => {
