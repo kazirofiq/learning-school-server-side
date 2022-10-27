@@ -7,6 +7,7 @@ const Port = process.env.Port || 5000;
 
 const categories = require('./data/category.json');
 const courses = require('./data/courses.json');
+const checkout = require('./data/checkout.json');
 
 app.get('/', (req, res) => {
   res.send('Hello World!')
@@ -33,10 +34,20 @@ app.get('/courses', (req, res) => {
     res.send(courses);
   })
 
-  app.get('/education/:id', (req, res) => {
+app.get('/checkout', (req, res) => {
+    res.send(checkout);
+  })
+
+  app.get('/courses/:id', (req, res) => {
     const id = req.params.id;
-    const selectedEducate = courses.find(e => e._id === id);
+    const selectedEducate = courses.find(e => e.id === id);
     res.send(selectedEducate);
+    // res.send(categories);
+  });
+  app.get('/checkout/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedCheckout = courses.find(e => e.id === id);
+    res.send(selectedCheckout);
     // res.send(categories);
   });
 
